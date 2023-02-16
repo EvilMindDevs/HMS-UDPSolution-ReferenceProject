@@ -1,4 +1,4 @@
-﻿using UnityEngine.UI;
+using UnityEngine.UI;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UDP;
@@ -25,7 +25,29 @@ public class UDPSampleScript : MonoBehaviour
 
     private static List<string> _productIds = new List<string>();
 
-    protected virtual void Start()
+    #region Singleton
+
+    public static UDPSampleScript Instance { get; private set; }
+    private void Singleton()
+    {
+        if (Instance != null && Instance != this)
+        {
+            Destroy(this);
+        }
+        else
+        {
+            Instance = this;
+        }
+    }
+
+    #endregion
+
+    private void Awake()
+    {
+        Singleton();
+    }
+
+    public void Initialization()
     {
         _infoObj = GameObject.Find("Information");
         _dropObj = GameObject.Find("Dropdown");
@@ -216,7 +238,12 @@ public class UDPSampleScript : MonoBehaviour
             //LicensingCode enum:
             //RETRY, LICENSED, NOT_LICENSED, STORE_NOT_SUPPORT
             Debug.Log("license check passed, code: " + code + " message: " + message);
-            Show("license check passed, code: " + code + " message: " + message); //some meaningful message
+            string messageToShow = "License check passed";
+            if(code != LicensingCode.STORE_NOT_SUPPORT)
+            {
+                messageToShow += "code: " + code + " message: " + message;
+            }
+            Show(messageToShow); //some meaningful message
         }
 
         public void dontAllow(LicensingCode code, string message)

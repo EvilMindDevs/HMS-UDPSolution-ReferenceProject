@@ -16,6 +16,8 @@ public class GameManager : MonoBehaviour
   public GameObject gameButtons;
   public GameObject mutedButton;
   public GameObject pauseMenu;
+  public GameObject storeScreen;
+
   public static bool restartGame = false;
   public int gemCount = 0;
   public TMP_Text gemCountText;
@@ -100,4 +102,13 @@ public class GameManager : MonoBehaviour
     }
   }
 
+  public void ManageStoreScreen(bool storeScreenActive)
+  {
+    storeScreen.SetActive(storeScreenActive);
+    if(storeScreenActive)
+    {
+      UDPSampleScript.Instance.Initialization();
+    }
+    
+  }
 }

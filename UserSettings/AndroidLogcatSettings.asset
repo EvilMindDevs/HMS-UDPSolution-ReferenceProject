@@ -1,13 +1,32 @@
 {
-    "m_SelectedDeviceId": "",
+    "m_SelectedDeviceId": "192.168.1.22:5555",
     "m_SelectedPackage": {
-        "deviceId": "",
-        "name": "",
-        "processId": 0,
+        "deviceId": "192.168.1.22:5555",
+        "name": "com.DefaultCompany.CubeSurfer",
+        "processId": 28780,
         "exited": false
     },
     "m_SelectedPriority": 0,
-    "m_KnownPackagesForSerialization": [],
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "192.168.1.22:5555",
+            "name": "com.DefaultCompany.CubeSurfer",
+            "processId": 10877,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.22:5555",
+            "name": "com.DefaultCompany.CubeSurfer",
+            "processId": 11245,
+            "exited": false
+        },
+        {
+            "deviceId": "192.168.1.22:5555",
+            "name": "com.DefaultCompany.CubeSurfer",
+            "processId": 28780,
+            "exited": false
+        }
+    ],
     "m_Tags": {
         "m_Entries": [
             {
@@ -41,9 +60,20 @@
         ]
     },
     "m_MemoryViewerState": {
-        "MemoryWindowHeight": 0.0,
-        "MemoryWindowWidth": 0.0,
-        "MemoryTypeEnabled": [],
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
         "MemoryGroup": 2,
         "Behavior": 0
     },
