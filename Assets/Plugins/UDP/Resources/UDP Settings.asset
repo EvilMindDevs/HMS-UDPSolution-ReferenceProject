@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: -107981364, guid: 7f448572ea9eb4f94a29da7a37eed74a, type: 3}
   m_Name: UDP Settings
   m_EditorClassIdentifier: 
-  UnityProjectID: 
-  UnityClientID: 
-  UnityClientKey: 
-  UnityClientRSAPublicKey: 
-  AppName: 
-  AppSlug: 
-  AppItemId: 
+  UnityProjectID: 37ac0de4-3929-4758-8424-c7a463257c77
+  UnityClientID: y-bvfrbNt5nD60QAdEJIXg
+  UnityClientKey: N-xjVUUD6N8gddY0zKZ43J4gQSFCMHAEkU-DMwUk73I
+  UnityClientRSAPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhq5R5YNEgJHbY+P5Cfpn5iXZwkFlrQkqbYJ8Pr4bStDJGdPDoy5t31PQIAGLik3MB0r/pJCpBU56jlCDmssMbL42KfcybFYHf3Wj3RC35522k473nhba7kRcKV3d9iaYcgAE9I+nTSrjse47/W1Lf1tLETWTOHdujkUvSJkr3vzbzB2ZWmjPeEFH4Dxe7FR5Z2GRD/TtOfNS9gG+LDGWsYxSONhKHokWJwX8b7zvc0Snxrcc3+gHu6EVgHAdHpTUrnG3bHrYE4uu7Qr7lbDBs7RoodB7plpI3fxeamZp6Hnbj+ji+jgEmqnhsKlZUHTFqNlBuV5XXSceDhTyR5B54wIDAQAB
+  AppName: Cube Ride
+  AppSlug: e8741dce-a5f7-40f7-94f1-80f8c2f3e44f
+  AppItemId: 63d10f48e65e078abe4a8afc
   Permission: 
