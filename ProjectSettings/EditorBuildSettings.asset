@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/CubeSurfer.unity
-    guid: 026bbd1d55f501449a596b73464be470
+    path: Assets/IronSource/DemoScene/IronSourceDemo.unity
+    guid: ccc0ac08126704384bdda74c26d99797
   m_configObjects: {}
