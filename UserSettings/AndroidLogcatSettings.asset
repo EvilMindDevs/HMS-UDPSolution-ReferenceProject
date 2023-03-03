@@ -1,9 +1,9 @@
 {
-    "m_SelectedDeviceId": "192.168.1.22:5555",
+    "m_SelectedDeviceId": "cd8f2e24",
     "m_SelectedPackage": {
-        "deviceId": "192.168.1.22:5555",
-        "name": "com.DefaultCompany.CubeSurfer",
-        "processId": 28780,
+        "deviceId": "cd8f2e24",
+        "name": "com.refapp.cubesurfer.huawei",
+        "processId": 9687,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -24,6 +24,54 @@
             "deviceId": "192.168.1.22:5555",
             "name": "com.DefaultCompany.CubeSurfer",
             "processId": 28780,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.DefaultCompany.CubeSurfer",
+            "processId": 29841,
+            "exited": true
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.DefaultCompany.CubeSurfer",
+            "processId": 26272,
+            "exited": true
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 31179,
+            "exited": true
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 9999,
+            "exited": true
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 10472,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 7290,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 9687,
+            "exited": false
+        },
+        {
+            "deviceId": "EPHUT20429006501",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 7858,
             "exited": false
         }
     ],
