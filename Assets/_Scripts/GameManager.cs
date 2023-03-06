@@ -17,6 +17,7 @@ public class GameManager : MonoBehaviour
   public GameObject mutedButton;
   public GameObject pauseMenu;
   public GameObject storeScreen;
+  public GameObject adsScreen;
 
   public static bool restartGame = false;
   public int gemCount = 0;
@@ -110,5 +111,10 @@ public class GameManager : MonoBehaviour
       UDPSampleScript.Instance.Initialization();
     }
     
+  }
+
+  public void ManageAdsScreen(bool adsScreenActive)
+  {
+    adsScreen.SetActive(adsScreenActive);    
   }
 }

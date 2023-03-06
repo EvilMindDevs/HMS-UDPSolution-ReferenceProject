@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "cd8f2e24",
         "name": "com.refapp.cubesurfer.huawei",
-        "processId": 9687,
+        "processId": 19054,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -28,24 +28,6 @@
         },
         {
             "deviceId": "cd8f2e24",
-            "name": "com.DefaultCompany.CubeSurfer",
-            "processId": 29841,
-            "exited": true
-        },
-        {
-            "deviceId": "cd8f2e24",
-            "name": "com.DefaultCompany.CubeSurfer",
-            "processId": 26272,
-            "exited": true
-        },
-        {
-            "deviceId": "cd8f2e24",
-            "name": "com.refapp.cubesurfer.huawei",
-            "processId": 31179,
-            "exited": true
-        },
-        {
-            "deviceId": "cd8f2e24",
             "name": "com.refapp.cubesurfer.huawei",
             "processId": 9999,
             "exited": true
@@ -54,18 +36,108 @@
             "deviceId": "cd8f2e24",
             "name": "com.refapp.cubesurfer.huawei",
             "processId": 10472,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "cd8f2e24",
             "name": "com.refapp.cubesurfer.huawei",
             "processId": 7290,
-            "exited": false
+            "exited": true
         },
         {
             "deviceId": "cd8f2e24",
             "name": "com.refapp.cubesurfer.huawei",
             "processId": 9687,
+            "exited": true
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 17713,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 18804,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 18803,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 28605,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 29512,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 30588,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 9636,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 12152,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 13099,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 13983,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 15092,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 15824,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 17547,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 21300,
+            "exited": false
+        },
+        {
+            "deviceId": "cd8f2e24",
+            "name": "com.refapp.cubesurfer.huawei",
+            "processId": 19054,
             "exited": false
         },
         {
@@ -126,7 +198,7 @@
         "Behavior": 0
     },
     "m_FilterOptions": {
-        "m_Filter": "",
+        "m_Filter": "IronSource",
         "m_UseRegularExpressions": false,
         "m_MatchCase": false
     },
